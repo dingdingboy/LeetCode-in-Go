@@ -17,6 +17,6 @@ func twoSum(nums []int, target int) []int {
 		// 把b和i的值，存入map
 		index[b] = i
 	}
-
+	// Do we really need to study Go now?
 	return nil
 }
